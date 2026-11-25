@@ -1,4 +1,4 @@
-Updates via https://webhostpro.com/ and https://webhostproblog.com
+Updates via https://webhostpro.com/ and https://webhostpro.com/blog
 
 Goal
 Maintain and improve a renderer that replaces Webalizer’s per-domain `index.html` with a modern static UI inside cPanel, while continuing to use Webalizer-generated monthly `usage_YYYYMM.html` files as the data source.
